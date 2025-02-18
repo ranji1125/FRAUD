@@ -1,0 +1,21 @@
+wrapper order,variable,filter score
+1,Cardnum_unique_count_for_card_state_1,0.4760666122777144
+2,Card_Merchdesc_total_7,0.32463084996901237
+3,Cardnum_count_1_by_30_sq,0.42822889583921436
+4,Cardnum_max_14,0.31882556436477644
+5,Card_dow_vdratio_0by7,0.4679610397253977
+6,card_state_max_7,0.32913207617916024
+7,card_zip_count_1_by_60_sq,0.31482153759483933
+8,Cardnum_actual/toal_0,0.47955008176014896
+9,Card_dow_max_14,0.4709750625782853
+10,state_des_total_3,0.3155403446112294
+11,Cardnum_total_14,0.4943749232610197
+12,Card_dow_total_30,0.4747594487486571
+13,Cardnum_unique_count_for_card_state_3,0.4664103399043158
+14,Cardnum_unique_count_for_card_zip_3,0.4643105155338137
+15,Cardnum_unique_count_for_Merchnum_3,0.4607481518487505
+16,Cardnum_actual/toal_1,0.4597151817862883
+17,Cardnum_unique_count_for_card_state_7,0.44596675287044124
+18,Cardnum_actual/max_0,0.44572598263928004
+19,Card_dow_unique_count_for_merch_state_1,0.4473572977675276
+20,Cardnum_count_14,0.4454434295220754
